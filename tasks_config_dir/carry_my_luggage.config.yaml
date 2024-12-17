@@ -1,0 +1,6 @@
+mapping:
+  package_name: fbot_navigation
+  executable: launch/mapping.launch.py
+  enable: 'true'
+  parameters:
+    example_param: 'example_value'
